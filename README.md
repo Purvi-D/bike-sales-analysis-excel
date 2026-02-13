@@ -73,5 +73,15 @@ The analysis revealed key customer behaviour patterns:
 
 ![Dashboard Screenshot](dashboard.png)
 
+## NEXT STEPS
+
+To further enhance this analysis:
+-	Incorporate time-series data to analyse seasonal trends
+-	Perform predictive modelling to forecast bike purchases
+-	Integrate SQL for database-level analysis
+-	Expand segmentation using clustering techniques
+-	Conduct A/B testing for targeted marketing strategies
+
+
 
 
