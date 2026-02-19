@@ -71,7 +71,8 @@ The analysis revealed key customer behaviour patterns:
 
 ## DASHBOARD
 
-![Dashboard Screenshot](dashboard.png)
+<img width="1755" height="1241" alt="image" src="https://github.com/user-attachments/assets/52573eb1-fb40-42bb-b1da-843e222fab00" />
+
 
 ## NEXT STEPS
 
