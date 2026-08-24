@@ -1,5 +1,7 @@
 # Bike Sales Analysis – Customer Purchase Behaviour Dashboard (Excel)
 
+> 🎯 Analysed a 1,026-row bike sales dataset to pinpoint the highest-converting customer segment, turning raw purchase data into a targeted marketing recommendation via Excel PivotTables and an interactive KPI dashboard.
+
 ## EXECUTIVE SUMMARY
 
 This project analyses bike sales data to understand customer purchasing behaviour and identify the key factors influencing bike purchases.</br>
